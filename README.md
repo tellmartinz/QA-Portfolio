@@ -1,35 +1,31 @@
 # QA-Portfolio
-Quality Assurance portafolio: Test cases, bug reports, API postman reports and exploratory analysis 
+<h1 align="center">Hi 👋, I'm Luis Tello</h1>
+<h3 align="center">A QA manual tester from Mexico</h3>
 
-Quality Assurance (QA) Portfolio | Luis
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tellmartinz&label=Profile%20views&color=0e75b6&style=flat" alt="tellmartinz" /> </p>
 
-Hi! I am a QA Analyst focused on ensuring software quality through rigorous manual testing, exploratory testing, and API testing.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tellmartinz" alt="tellmartinz" /></a> </p>
 
-I have hands-on experience testing web and mobile applications, identifying edge cases, designing detailed test suites, and capturing network and console logs using tools like Postman, Charles Proxy, and iMazing.
+- 🔭 I’m currently working on [Forkmesh](https://forkmesh.com/)
 
----
+- 🌱 I’m currently learning **ISTQB CTFL certification syllabus, Advanced API Testing (Postman), SQL for Database Validation, and JavaScript basics for Automation.**
 
-Skills & Tools
+- 👯 I’m looking to collaborate on **Open-source projects needing Manual & API Testing, Bug Hunting, or Test Suite documentation.**
 
-- **Testing Methodologies:** Functional Testing, Exploratory Testing, Regression Testing, Sanity Testing, Usability Testing, API Testing, Mobile Testing (iOS/Android).
-- **API & Network Analysis:** Postman, Charles Proxy (SSL Certificate Configuration & Log Capture).
-- **Logs & Diagnostics:** iMazing (iOS Console Logs), Browser DevTools.
-- **Documentation & Management:** GitHub, Google Sheets, Markdown, Jira / uTest.
+- 🤝 I’m looking for help with **Test Automation frameworks (Playwright, Cypress, or Selenium) and JavaScript/Python basics for QA.**
 
----
+- 💬 Ask me about **API Testing with Postman, Bug Hunting strategies, Mobile Log Capture (Charles Proxy & iMazing), and Exploratory Testing.**
 
-## Featured Projects
+- 📫 How to reach me **itellomartinezi@gmail.com**
 
-### 1. [API Testing - ForkMesh Protocol](./03-API-Testing-Postman/)
-Backend API testing on the **ForkMesh** distributed Git collaboration protocol using **Postman**.
-- Validated HTTP response status codes (`200 OK`, `400 Bad Request`, `404 Not Found`, `500 Internal Server Error`).
-- Tested endpoints for repository discovery, node user identities, and inboxes.
-- Includes the executable Postman Collection (`.json`).
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/spidertest99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spidertest99" height="30" width="40" /></a>
+</p>
 
-### 2. [Defect Reports (Bug Reports)](./02-Reportes-de-Bugs/)
-Real and simulated bug reports written with high technical accuracy:
-- **[BUG-001]** Unhandled 500 error when querying account identity endpoints with special characters.
-- **[BUG-002]** Inconsistent state behavior in the UI favorites module.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-### 3. [Test Cases & Test Design](./01-Casos-de-Prueba/)
-Structured test suites created using Black-Box testing techniques (Boundary Value Analysis, Equivalence Partitioning).
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tellmartinz&show_icons=true&locale=en&layout=compact" alt="tellmartinz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tellmartinz&show_icons=true&locale=en" alt="tellmartinz" /></p>
