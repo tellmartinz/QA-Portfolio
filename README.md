@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tellmartinz" alt="tellmartinz" /></a> </p>
 
-- 🔭 I’m currently working on [Forkmesh](https://forkmesh.com/)
+-  I’m currently working on [Forkmesh](https://forkmesh.com/)
 
-- 🌱 I’m currently learning **ISTQB CTFL certification syllabus, Advanced API Testing (Postman), SQL for Database Validation, and JavaScript basics for Automation.**
+-  I’m currently learning **ISTQB CTFL certification syllabus, Advanced API Testing (Postman), SQL for Database Validation, and JavaScript basics for Automation.**
 
-- 👯 I’m looking to collaborate on **Open-source projects needing Manual & API Testing, Bug Hunting, or Test Suite documentation.**
+-  I’m looking to collaborate on **Open-source projects needing Manual & API Testing, Bug Hunting, or Test Suite documentation.**
 
-- 🤝 I’m looking for help with **Test Automation frameworks (Playwright, Cypress, or Selenium) and JavaScript/Python basics for QA.**
+-  I’m looking for help with **Test Automation frameworks (Playwright, Cypress, or Selenium) and JavaScript/Python basics for QA.**
 
-- 💬 Ask me about **API Testing with Postman, Bug Hunting strategies, Mobile Log Capture (Charles Proxy & iMazing), and Exploratory Testing.**
+-  Ask me about **API Testing with Postman, Bug Hunting strategies, Mobile Log Capture (Charles Proxy & iMazing), and Exploratory Testing.**
 
-- 📫 How to reach me **itellomartinezi@gmail.com**
+-  How to reach me **itellomartinezi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
