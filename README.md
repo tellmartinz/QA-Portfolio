@@ -26,8 +26,13 @@ Exploratory and structural API testing on the **ForkMesh** decentralized protoco
 
 ### 2.  [Defect / Bug Reports](./02-Reportes-de-Bugs/)
 High-precision defect reports formatted for engineering teams:
-- **[BUG-001]** [Unhandled 500 Error on Special Characters in Node Identity Endpoint](./02-Reportes-de-Bugs/BUG-001-ForkMesh.md)
-- **[BUG-002]** [Inconsistent UI State on Favorites Module](./02-Reportes-de-Bugs/BUG-002-UI-Favorites.md)
+1.  **[BUG-001]** [Quadcopter Permission Bypass](./Bug%20reports/BUG-001-Quadcopter-Permission-Bypass.md) — **0.005 SOL**
+2.  **[BUG-002]** [Unhandled Script Exit on Cold Start](./Bug%20reports/BUG-002-Python-Script-Exit.md) — **0.003 SOL**
+3.  **[BUG-003]** [Elevator System Failure via Secondary Entrances](./Bug%20reports/BUG-003-Elevator-Secondary-Entrances.md) — **0.003 SOL**
+4.  **[BUG-004]** [Quadcopter Interaction Lock After Parking](./Bug%20reports/BUG-004-Quadcopter-State-Lock.md) — **0.003 SOL**
+5.  **[BUG-005]** [Weather Environment Preset Rendering Failure](./Bug%20reports/BUG-005-Weather-Rendering-Failure.md) — **0.003 SOL**
+6.  **[BUG-006]** [Table Interaction Anchor Displacement](./Bug%20reports/BUG-006-Table-Anchor-Displacement.md) — **0.002 SOL**
+7.  **[BUG-007]** [Missing Contextual Guidance on Reconnect Node](./Bug%20reports/BUG-007-Reconnect-Node-Guidance.md) — **0.002 SOL**
 
 ### 3.  [Test Design & Execution](./01-Casos-de-Prueba/)
 Structured test suites utilizing Black-Box techniques (Boundary Value Analysis, Equivalence Partitioning):
