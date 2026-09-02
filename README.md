@@ -1,31 +1,47 @@
-# QA-Portfolio
-<h1 align="center">Hi 👋, I'm Luis Tello</h1>
-<h3 align="center">A QA manual tester from Mexico</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tellmartinz&label=Profile%20views&color=0e75b6&style=flat" alt="tellmartinz" /> </p>
+# 🧪 Quality Assurance Portfolio | Luis Tello
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tellmartinz" alt="tellmartinz" /></a> </p>
+Hi! 👋 I'm a QA Analyst based in Mexico specializing in Manual Testing, API Validation, and Mobile Log Diagnostics.
 
--  I’m currently working on [Forkmesh](https://forkmesh.com/)
+---
 
--  I’m currently learning **ISTQB CTFL certification syllabus, Advanced API Testing (Postman), SQL for Database Validation, and JavaScript basics for Automation.**
+## 🛠️ Tech Stack & QA Tools
 
--  I’m looking to collaborate on **Open-source projects needing Manual & API Testing, Bug Hunting, or Test Suite documentation.**
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Testing Types** | Functional, Exploratory, API Testing, Mobile Testing (iOS/Android), Regression |
+| **API & Traffic** | Postman, Charles Proxy, HTTP Status Codes, JSON Validation |
+| **Diagnostics** | Browser DevTools, iMazing (iOS Console Logs) |
+| **Management** | GitHub, Markdown, Google Sheets, Jira / uTest |
 
--  I’m looking for help with **Test Automation frameworks (Playwright, Cypress, or Selenium) and JavaScript/Python basics for QA.**
+---
 
--  Ask me about **API Testing with Postman, Bug Hunting strategies, Mobile Log Capture (Charles Proxy & iMazing), and Exploratory Testing.**
+## 📁 Featured Projects & Samples
 
--  How to reach me **itellomartinezi@gmail.com**
+### 1. 🌐 [API Testing & Protocol Analysis - ForkMesh](./03-API-Testing-Postman/)
+Exploratory and structural API testing on the **ForkMesh** decentralized protocol using **Postman**.
+- Executed negative test cases on user identity and repository endpoints.
+- Uncovered unhandled server errors (`500 Internal Server Error`).
+- [🔗 View Postman Collection (.json)](./03-API-Testing-Postman/) | [🔗 View API Test Documentation](./03-API-Testing-Postman/README.md)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/spidertest99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spidertest99" height="30" width="40" /></a>
-</p>
+### 2. 🐛 [Defect / Bug Reports](./02-Reportes-de-Bugs/)
+High-precision defect reports formatted for engineering teams:
+- **[BUG-001]** [Unhandled 500 Error on Special Characters in Node Identity Endpoint](./02-Reportes-de-Bugs/BUG-001-ForkMesh.md)
+- **[BUG-002]** [Inconsistent UI State on Favorites Module](./02-Reportes-de-Bugs/BUG-002-UI-Favorites.md)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+### 3. 📋 [Test Design & Execution](./01-Casos-de-Prueba/)
+Structured test suites utilizing Black-Box techniques (Boundary Value Analysis, Equivalence Partitioning):
+- [ForkMesh Authentication & Identity Test Suite](./01-Casos-de-Prueba/Test-Suite-ForkMesh.md)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tellmartinz&show_icons=true&locale=en&layout=compact" alt="tellmartinz" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tellmartinz&show_icons=true&locale=en" alt="tellmartinz" /></p>
+## 🎓 Education & Certifications (In Progress)
+- **ISTQB Foundation Level (CTFL)** — *In Preparation*
+- **API Testing with Postman** — *Hands-on Practice & Collection Building*
+- **SQL for Database Validation** — *Learning Core Queries*
+
+---
+
+## 🚀 Planned Enhancements
+- [ ] Convert manual API tests into automated test runs using Postman Newman CLI.
+- [ ] Build end-to-end web automation scripts using **Playwright / Cypress**.
