@@ -3,8 +3,6 @@
 **Project:** ForkMesh (3D / Web Environment)  
 **Severity:** High (Security / Boundary Collision)  
 **Frequency:** 100% Reproducible  
-**Bounty Earned:** 0.005 SOL (Approved)  
-**Author:** Luis Tello (@LTelloM)
 
 ---
 
