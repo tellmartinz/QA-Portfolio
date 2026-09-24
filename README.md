@@ -18,11 +18,10 @@ Hi! I'm a QA Analyst based in Mexico specializing in Manual Testing, API Validat
 
 ## 📁 Featured Projects & Samples
 
-### 1.  [API Testing & Protocol Analysis - ForkMesh](./03-API-Testing-Postman/)
+### 1. 🚧 API Testing & Protocol Analysis - ForkMesh *(Coming soon)*
 Exploratory and structural API testing on the **ForkMesh** decentralized protocol using **Postman**.
-- Executed negative test cases on user identity and repository endpoints.
-- Uncovered unhandled server errors (`500 Internal Server Error`).
-- [🔗 View Postman Collection (.json)](./03-API-Testing-Postman/) | [🔗 View API Test Documentation](./03-API-Testing-Postman/README.md)
+- Currently building out structured test cases beyond basic CRUD (GET/POST/PUT/DELETE).
+- Will include negative test cases on user identity and repository endpoints.
 
 ### 2.  [Defect / Bug Reports](./02-Reportes-de-Bugs/)
 1.  **[BUG-001]** [Quadcopter Permission Bypass on Restricted Floors](./02-Bug-Reports/BUG-001-Quadcopter-Permission-Bypass.md) 
@@ -33,9 +32,9 @@ Exploratory and structural API testing on the **ForkMesh** decentralized protoco
 6.  **[BUG-006]** [Table Interaction Anchor Displacement & Boundary Bleed](./02-Bug-Reports/BUG-006-Table-Anchor-Displacement.md) 
 7.  **[BUG-007]** [Missing Contextual Guidance on Reconnect Node Redirection](./02-Bug-Reports/BUG-007-Reconnect-Node-Guidance.md) 
 
-### 3.  [Test Design & Execution](./01-Casos-de-Prueba/)
+### 3. 🚧 Test Design & Execution *(Coming soon)*
 Structured test suites utilizing Black-Box techniques (Boundary Value Analysis, Equivalence Partitioning):
-- [ForkMesh Authentication & Identity Test Suite](./01-Casos-de-Prueba/Test-Suite-ForkMesh.md)
+- ForkMesh Authentication & Identity Test Suite — in progress.
 
 ---
 
